@@ -1,6 +1,6 @@
 # License
 
-The text, tables, and graphics of this work ("Clean Bites" / "Embracing Change") by Kai Brockelt are licensed under the following license unless stated otherwise:
+The text, tables, and graphics of this work ("Embracing Change") by Kai Brockelt are licensed under the following license unless stated otherwise:
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
