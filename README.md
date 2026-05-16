@@ -67,7 +67,7 @@ For transparency and legal safety, the following assets within this repository a
 * **Photography:** Title images sourced from Unsplash and Pexels belong to their respective creators and are used under the **Unsplash License** or **Pexels License**. See `LICENSE.md` for full image credits.
 * **The "World Map of Aromas":** This specific asset is hosted externally, contains proprietary, copyrighted material, and is completely excluded from open redistribution.
 
-*For the full, legally binding terms and asset credits, please review the [LICENSE.md](./LICENSE.md) file.*
+*For the full, legally binding terms and asset credits, please review the [License.md](./License.md) file.*
 
 ---
 
