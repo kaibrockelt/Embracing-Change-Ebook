@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:isbn:9788409585809" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="-1" name="dtb:totalPageCount"/>
+    <meta content="-1" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Embracing Change</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Front Matter</text>
+      </navLabel>
+      <content src="Text/frontmatter.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Table of contents</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Embracing Change for Lifelong Wellness</text>
+      </navLabel>
+      <content src="Text/introduction.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Mind: Healthy Goals</text>
+      </navLabel>
+      <content src="Text/1-1-healthy-goals.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Knowledge: Nutrients we need</text>
+      </navLabel>
+      <content src="Text/1-2-knowlegde--nutrients-we-need.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Habit: Healthy body changes and weight loss</text>
+      </navLabel>
+      <content src="Text/1-3-healthy-body-changes-and-weight-loss.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Skill: Taste</text>
+      </navLabel>
+      <content src="Text/1-4-skill-taste.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>Practice: Full Flavour Ramen</text>
+      </navLabel>
+      <content src="Text/1-5-practice-ramen.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>Mind: The basic principle of healthy diets</text>
+      </navLabel>
+      <content src="Text/2-1-Mind--basic-principle-of-healthy-diets.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>Knowledge: Carbohydrates</text>
+      </navLabel>
+      <content src="Text/2-2-Knowledge--Carbohydrates.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>Habit: Whole food groups</text>
+      </navLabel>
+      <content src="Text/2-3-Habit--Whole-Food-Groups.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>Skill: Aroma</text>
+      </navLabel>
+      <content src="Text/2-4-Skill--Aroma.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>Practice: Buddha Bowls</text>
+      </navLabel>
+      <content src="Text/2-5-Practice--Buddha-Bowls.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>Mind: Energy and Body Weight</text>
+      </navLabel>
+      <content src="Text/3-1-mind--Energy-And-body-Weight.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>Knowledge: Fat</text>
+      </navLabel>
+      <content src="Text/3-2-knowledge--Fat.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>Habit: Reading Shopping Labels</text>
+      </navLabel>
+      <content src="Text/3-3-habit--reading-shopping-labels.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>Skill: Bite</text>
+      </navLabel>
+      <content src="Text/3-4-skill--bite.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>Practice: Black Beans &amp; Sweet Potato Chili</text>
+      </navLabel>
+      <content src="Text/3-5--Chili.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>Mind: Sport &amp; Health</text>
+      </navLabel>
+      <content src="Text/4-1--mind--Sport-and-health.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>Knowledge: Protein</text>
+      </navLabel>
+      <content src="Text/4-2-knowledge-protein.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>Habit: Food Quality and Spoilage</text>
+      </navLabel>
+      <content src="Text/4-3-Habit--Food-quality-and-spoilage.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint23" playOrder="23">
+      <navLabel>
+        <text>Skill: Texture</text>
+      </navLabel>
+      <content src="Text/4-4-Skill--Texture.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint24" playOrder="24">
+      <navLabel>
+        <text>Practice: Protein Pesto with Pasta Primavera</text>
+      </navLabel>
+      <content src="Text/4-5-Practice--Protein-pesto-with-pasta-primavera.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>Mind: Critical Nutrients</text>
+      </navLabel>
+      <content src="Text/5-1-mind--critical-nutrients.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint26" playOrder="26">
+      <navLabel>
+        <text>Knowledge: Uncritical Nutrients</text>
+      </navLabel>
+      <content src="Text/5-2-Knowledge--uncritical-nutrients.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint27" playOrder="27">
+      <navLabel>
+        <text>Habit: Optimizing nutrient absorption</text>
+      </navLabel>
+      <content src="Text/5-3-Habit--optimizing-nutrient-absorption.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint28" playOrder="28">
+      <navLabel>
+        <text>Skill: Creating a meat-like experience</text>
+      </navLabel>
+      <content src="Text/5-4-Skill--Creating-a-meatlike-experience.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint29" playOrder="29">
+      <navLabel>
+        <text>Practice: Mushroom Döner Kebab</text>
+      </navLabel>
+      <content src="Text/5-5-Practice--mushroom-doener-kebab.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint30" playOrder="30">
+      <navLabel>
+        <text>Mind: Alcohol</text>
+      </navLabel>
+      <content src="Text/6-1-mind--alcohol.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint31" playOrder="31">
+      <navLabel>
+        <text>Knowledge: Diseases linked to diet</text>
+      </navLabel>
+      <content src="Text/6-2-knowledge--diseases-linked-to-diet.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint32" playOrder="32">
+      <navLabel>
+        <text>Habit: Nutrient saving cooking</text>
+      </navLabel>
+      <content src="Text/6-3-habit--nutrient-saving-cooking.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint33" playOrder="33">
+      <navLabel>
+        <text>Skill: Replacing with whole foods</text>
+      </navLabel>
+      <content src="Text/6-4-skill--replacing-with-whole-foods.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint34" playOrder="34">
+      <navLabel>
+        <text>Practice: Lentil-Nutloaf Holiday Menu</text>
+      </navLabel>
+      <content src="Text/6-5-practice--lentil-nutloaf-holiday-menu.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint35" playOrder="35">
+      <navLabel>
+        <text>Outro: A lifelong journey awaits</text>
+      </navLabel>
+      <content src="Text/x-x-outro--a-lifelong-journey-awaits.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint36" playOrder="36">
+      <navLabel>
+        <text>References</text>
+      </navLabel>
+      <content src="Text/x-y--references.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint37" playOrder="37">
+      <navLabel>
+        <text>Licenses</text>
+      </navLabel>
+      <content src="Text/x-z--licenses.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

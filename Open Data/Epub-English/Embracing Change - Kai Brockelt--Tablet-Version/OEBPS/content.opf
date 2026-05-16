@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">Embracing Change: Your Companion To Lifelong Wellness through Informed Nutrition Choices</dc:title>
+    <dc:creator opf:file-as="Brockelt, Kai" opf:role="aut">Kai Brockelt</dc:creator>
+    <dc:rights>Copyright © 2026 Kai Brockelt. Licensed under CC BY-NC-SA 4.0. Some rights reserved.</dc:rights>
+    <meta property="dcterms:license">https://creativecommons.org/licenses/by-nc-sa/4.0/</meta>
+    <dc:source>https://clean-bites.com/embracing-change/</dc:source>
+    <dc:publisher>Self-Published</dc:publisher>
+    <dc:date>2026-05-16T00:00:00+00:00</dc:date>
+    <dc:subject id="subject-1">Nutrition</dc:subject>
+    <dc:subject id="subject-2">Weight loss</dc:subject>
+    <dc:subject id="subject-3">Diet</dc:subject>
+    <dc:identifier opf:scheme="UUID">urn:uuid:c6390211-666f-4c58-9adf-fcc8fb3f270f</dc:identifier>
+    <dc:description>Embracing Change is your guidebook in the jungle of misinformation around the huge topic of dieting and health</dc:description>
+    <dc:language>en-US</dc:language>
+    <meta name="Sigil version" content="2.7.6"/>
+    <dc:date opf:event="modification">2026-05-16</dc:date>
+    <meta name="cover" content="cover.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="frontmatter" href="Text/frontmatter.xhtml" media-type="application/xhtml+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="introduction" href="Text/introduction.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-1-healthy-goals" href="Text/1-1-healthy-goals.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-2-knowlegde--nutrients-we-need.xhtml" href="Text/1-2-knowlegde--nutrients-we-need.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-3-healthy-body-changes-and-weight-loss.xhtml" href="Text/1-3-healthy-body-changes-and-weight-loss.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-x-outro--a-lifelong-journey-awaits.xhtml" href="Text/x-x-outro--a-lifelong-journey-awaits.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="css" href="Styles/style.css" media-type="text/css"/>
+    <item id="x1-4-skill-taste.xhtml" href="Text/1-4-skill-taste.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-5-practice-ramen.xhtml" href="Text/1-5-practice-ramen.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-1-Mind--basic-principle-of-healthy-diets.xhtml" href="Text/2-1-Mind--basic-principle-of-healthy-diets.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-2-Knowledge--Carbohydrates.xhtml" href="Text/2-2-Knowledge--Carbohydrates.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-3-Habit--Whole-Food-Groups.xhtml" href="Text/2-3-Habit--Whole-Food-Groups.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-4-Skill--Aroma.xhtml" href="Text/2-4-Skill--Aroma.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-5-Practice--Buddha-Bowls.xhtml" href="Text/2-5-Practice--Buddha-Bowls.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-1-mind--Energy-And-body-Weight.xhtml" href="Text/3-1-mind--Energy-And-body-Weight.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-2-knowledge--Fat.xhtml" href="Text/3-2-knowledge--Fat.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-3-habit--reading-shopping-labels.xhtml" href="Text/3-3-habit--reading-shopping-labels.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-4-skill--bite.xhtml" href="Text/3-4-skill--bite.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-5--Chili.xhtml" href="Text/3-5--Chili.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-1--mind--Sport-and-health.xhtml" href="Text/4-1--mind--Sport-and-health.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-2-knowledge-protein.xhtml" href="Text/4-2-knowledge-protein.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-3-Habit--Food-quality-and-spoilage.xhtml" href="Text/4-3-Habit--Food-quality-and-spoilage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-4-Skill--Texture.xhtml" href="Text/4-4-Skill--Texture.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-5-Practice--Protein-pesto-with-pasta-primavera.xhtml" href="Text/4-5-Practice--Protein-pesto-with-pasta-primavera.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-1-mind--critical-nutrients.xhtml" href="Text/5-1-mind--critical-nutrients.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-2-Knowledge--uncritical-nutrients.xhtml" href="Text/5-2-Knowledge--uncritical-nutrients.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-3-Habit--optimizing-nutrient-absorption.xhtml" href="Text/5-3-Habit--optimizing-nutrient-absorption.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-4-Skill--Creating-a-meatlike-experience.xhtml" href="Text/5-4-Skill--Creating-a-meatlike-experience.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-5-Practice--mushroom-doener-kebab.xhtml" href="Text/5-5-Practice--mushroom-doener-kebab.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6-1-mind--alcohol.xhtml" href="Text/6-1-mind--alcohol.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6-2-knowledge--diseases-linked-to-diet.xhtml" href="Text/6-2-knowledge--diseases-linked-to-diet.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x-y--references.xhtml" href="Text/x-y--references.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6-3-habit--nutrient-saving-cooking.xhtml" href="Text/6-3-habit--nutrient-saving-cooking.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6-4-skill--replacing-with-whole-foods.xhtml" href="Text/6-4-skill--replacing-with-whole-foods.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6-5-practice--lentil-nutloaf-holiday-menu.xhtml" href="Text/6-5-practice--lentil-nutloaf-holiday-menu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Merriweather-Regular.otf" href="Fonts/Merriweather-Regular.otf" media-type="font/otf"/>
+    <item id="OpenSans-Bold.otf" href="Fonts/OpenSans-Bold.otf" media-type="font/otf"/>
+    <item id="OpenSans-BoldItalic.otf" href="Fonts/OpenSans-BoldItalic.otf" media-type="font/otf"/>
+    <item id="OpenSans-Italic.otf" href="Fonts/OpenSans-Italic.otf" media-type="font/otf"/>
+    <item id="OpenSans-Regular.otf" href="Fonts/OpenSans-Regular.otf" media-type="font/otf"/>
+    <item id="Merriweather-Regular.ttf" href="Fonts/Merriweather-Regular.ttf" media-type="font/ttf"/>
+    <item id="OpenSans-Bold.ttf" href="Fonts/OpenSans-Bold.ttf" media-type="font/ttf"/>
+    <item id="OpenSans-BoldItalic.ttf" href="Fonts/OpenSans-BoldItalic.ttf" media-type="font/ttf"/>
+    <item id="OpenSans-Italic.ttf" href="Fonts/OpenSans-Italic.ttf" media-type="font/ttf"/>
+    <item id="OpenSans-Regular.ttf" href="Fonts/OpenSans-Regular.ttf" media-type="font/ttf"/>
+    <item id="Merriweather-Regular.woff" href="Fonts/Merriweather-Regular.woff" media-type="font/woff"/>
+    <item id="OpenSans-Bold.woff" href="Fonts/OpenSans-Bold.woff" media-type="font/woff"/>
+    <item id="OpenSans-BoldItalic.woff" href="Fonts/OpenSans-BoldItalic.woff" media-type="font/woff"/>
+    <item id="OpenSans-Italic.woff" href="Fonts/OpenSans-Italic.woff" media-type="font/woff"/>
+    <item id="OpenSans-Regular.woff" href="Fonts/OpenSans-Regular.woff" media-type="font/woff"/>
+    <item id="OpenSans-Regular.woff2" href="Fonts/OpenSans-Regular.woff2" media-type="font/woff2"/>
+    <item id="OpenSans-Italic.woff2" href="Fonts/OpenSans-Italic.woff2" media-type="font/woff2"/>
+    <item id="OpenSans-BoldItalic.woff2" href="Fonts/OpenSans-BoldItalic.woff2" media-type="font/woff2"/>
+    <item id="OpenSans-Bold.woff2" href="Fonts/OpenSans-Bold.woff2" media-type="font/woff2"/>
+    <item id="Merriweather-Regular.woff2" href="Fonts/Merriweather-Regular.woff2" media-type="font/woff2"/>
+    <item id="cover0001.jpg" href="Images/cover0001.jpg" media-type="image/jpeg"/>
+    <item id="image-01.jpg" href="Images/image-01.jpg" media-type="image/jpeg"/>
+    <item id="image-02.png" href="Images/image-02.png" media-type="image/png"/>
+    <item id="x0-0-000-title.jpg" href="Images/0-0-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x1-1--001-Diseases-linked-to-diet.png" href="Images/1-1--001-Diseases-linked-to-diet.png" media-type="image/png"/>
+    <item id="x1-1--002-Lifestyle-impact-on-life-expectency.png" href="Images/1-1--002-Lifestyle-impact-on-life-expectency.png" media-type="image/png"/>
+    <item id="x1-1--003-Progressive-goals.png" href="Images/1-1--003-Progressive-goals.png" media-type="image/png"/>
+    <item id="x1-1-000-title.jpg" href="Images/1-1-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x1-2--001-Overview-of-the-nutrient-groups.png" href="Images/1-2--001-Overview-of-the-nutrient-groups.png" media-type="image/png"/>
+    <item id="x1-2--001-Vitamins-we-need.png" href="Images/1-2--001-Vitamins-we-need.png" media-type="image/png"/>
+    <item id="x1-2-000-title.jpg" href="Images/1-2-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x1-3-000-title.jpg" href="Images/1-3-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x1-4-000-title.jpg" href="Images/1-4-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x1-4-001-Savory-or-sweet-How-you-can-understand-taste-patterns.png" href="Images/1-4-001-Savory-or-sweet-How-you-can-understand-taste-patterns.png" media-type="image/png"/>
+    <item id="x1-4-002-How-liquid-food-can-reach-more-taste-buds.png" href="Images/1-4-002-How-liquid-food-can-reach-more-taste-buds.png" media-type="image/png"/>
+    <item id="x1-5-000-title.jpg" href="Images/1-5-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x1-5-001-base-ingredients.jpg" href="Images/1-5-001-base-ingredients.jpg" media-type="image/jpeg"/>
+    <item id="x1-5-002-stock-additions.jpg" href="Images/1-5-002-stock-additions.jpg" media-type="image/jpeg"/>
+    <item id="x2-1-000-title.jpg" href="Images/2-1-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x2-1-001-the-effect-of-stripping-fooods.png" href="Images/2-1-001-the-effect-of-stripping-fooods.png" media-type="image/png"/>
+    <item id="x2-2-000-title.jpg" href="Images/2-2-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x2-2-001-common-terms-for-sugar.png" href="Images/2-2-001-common-terms-for-sugar.png" media-type="image/png"/>
+    <item id="x2-2-002-impact-of-complex-carbs-on-blood-sugar-levels.png" href="Images/2-2-002-impact-of-complex-carbs-on-blood-sugar-levels.png" media-type="image/png"/>
+    <item id="x2-2-003-75g-of-sugar-vs-lemon.jpg" href="Images/2-2-003-75g-of-sugar-vs-lemon.jpg" media-type="image/jpeg"/>
+    <item id="x2-3-000-title.jpg" href="Images/2-3-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x2-3-001-whole-food-groups.png" href="Images/2-3-001-whole-food-groups.png" media-type="image/png"/>
+    <item id="x2-3-002-what-is-left-after-processing.png" href="Images/2-3-002-what-is-left-after-processing.png" media-type="image/png"/>
+    <item id="x2-3-003-anatomy-of-a-grain.png" href="Images/2-3-003-anatomy-of-a-grain.png" media-type="image/png"/>
+    <item id="x2-3-005-a-spoon-full-of-chia.png" href="Images/2-3-005-a-spoon-full-of-chia.png" media-type="image/png"/>
+    <item id="x2-4-000-title.jpg" href="Images/2-4-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x2-4-001-Distribution-of-aromatic-notes.png" href="Images/2-4-001-Distribution-of-aromatic-notes.png" media-type="image/png"/>
+    <item id="x2-4-002-Creating-aromatic-complexity.png" href="Images/2-4-002-Creating-aromatic-complexity.png" media-type="image/png"/>
+    <item id="x2-4-003-The-Effect-Of-Roasting-Food.png" href="Images/2-4-003-The-Effect-Of-Roasting-Food.png" media-type="image/png"/>
+    <item id="x2-5-000-title.jpg" href="Images/2-5-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x2-5-001-Base-Ingredients.jpg" href="Images/2-5-001-Base-Ingredients.jpg" media-type="image/jpeg"/>
+    <item id="x2-5-002-Aromatic-compnents.jpg" href="Images/2-5-002-Aromatic-compnents.jpg" media-type="image/jpeg"/>
+    <item id="x3-1-000-title.jpg" href="Images/3-1-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x3-2-000-title.jpg" href="Images/3-2-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x3-2-001--categorizing-fatty-acids.png" href="Images/3-2-001--categorizing-fatty-acids.png" media-type="image/png"/>
+    <item id="x3-2-002--structure-of-fatty-acids.png" href="Images/3-2-002--structure-of-fatty-acids.png" media-type="image/png"/>
+    <item id="x3-2-003--omega-fatty-acids-synthesis-chain.png" href="Images/3-2-003--omega-fatty-acids-synthesis-chain.png" media-type="image/png"/>
+    <item id="x3-2-005--Eggs-Dairy.png" href="Images/3-2-005--Eggs-Dairy.png" media-type="image/png"/>
+    <item id="x3-2-005--Fish-Seafood.png" href="Images/3-2-005--Fish-Seafood.png" media-type="image/png"/>
+    <item id="x3-2-005--Meat-poultry.png" href="Images/3-2-005--Meat-poultry.png" media-type="image/png"/>
+    <item id="x3-2-005--Nuts-Seeds.png" href="Images/3-2-005--Nuts-Seeds.png" media-type="image/png"/>
+    <item id="x3-2-005--Oils.png" href="Images/3-2-005--Oils.png" media-type="image/png"/>
+    <item id="x3-3-000-title.jpg" href="Images/3-3-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x3-3-002--Apps.png" href="Images/3-3-002--Apps.png" media-type="image/png"/>
+    <item id="x3-4-000-title.jpg" href="Images/3-4-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x3-5-000-title.jpg" href="Images/3-5-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x3-5-001--Base-Ingredients.jpg" href="Images/3-5-001--Base-Ingredients.jpg" media-type="image/jpeg"/>
+    <item id="x3-5-002--Aromatics-and-Spice.jpg" href="Images/3-5-002--Aromatics-and-Spice.jpg" media-type="image/jpeg"/>
+    <item id="x4-1-000-title.jpg" href="Images/4-1-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x4-2-000-title.jpg" href="Images/4-2-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x4-2-001--how-many-houses-can-you-build.png" href="Images/4-2-001--how-many-houses-can-you-build.png" media-type="image/png"/>
+    <item id="x4-2-002--combine-foods-to-increase-protein-quality.png" href="Images/4-2-002--combine-foods-to-increase-protein-quality.png" media-type="image/png"/>
+    <item id="x4-2-003--calculating-relative-protein-content.png" href="Images/4-2-003--calculating-relative-protein-content.png" media-type="image/png"/>
+    <item id="x4-2-004--calories-from-protein-in-selected-foods.png" href="Images/4-2-004--calories-from-protein-in-selected-foods.png" media-type="image/png"/>
+    <item id="x4-3-000-title.jpg" href="Images/4-3-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x4-4-000-title.jpg" href="Images/4-4-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x4-4-001--FFCL-QR-Code.png" href="Images/4-4-001--FFCL-QR-Code.png" media-type="image/png"/>
+    <item id="x4-4-002--FFCL-filled.png" href="Images/4-4-002--FFCL-filled.png" media-type="image/png"/>
+    <item id="x4-5-000-title.jpg" href="Images/4-5-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x4-5-001-Pesto-ingredients.jpg" href="Images/4-5-001-Pesto-ingredients.jpg" media-type="image/jpeg"/>
+    <item id="x4-5-002-finished-pesto.jpg" href="Images/4-5-002-finished-pesto.jpg" media-type="image/jpeg"/>
+    <item id="x4-5-003-pasta-primavera-ingredients.jpg" href="Images/4-5-003-pasta-primavera-ingredients.jpg" media-type="image/jpeg"/>
+    <item id="x4-5-004-different-qualities-in-pasta.jpg" href="Images/4-5-004-different-qualities-in-pasta.jpg" media-type="image/jpeg"/>
+    <item id="x5-1-000-title.jpg" href="Images/5-1-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x5-1-001--Dietary-Reference-Intake.png" href="Images/5-1-001--Dietary-Reference-Intake.png" media-type="image/png"/>
+    <item id="x5-1-002--typical-daily-vitamin-b12-supplements.jpg" href="Images/5-1-002--typical-daily-vitamin-b12-supplements.jpg" media-type="image/jpeg"/>
+    <item id="x5-2-000-title.jpg" href="Images/5-2-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x5-3-000-title.jpg" href="Images/5-3-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x5-4-000-title.jpg" href="Images/5-4-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x5-4-001--various-sizes-of-dry-plant-protein.jpg" href="Images/5-4-001--various-sizes-of-dry-plant-protein.jpg" media-type="image/jpeg"/>
+    <item id="x5-5-000-title.jpg" href="Images/5-5-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x5-5-001--Base-ingredients-for-the-mushroom-doener.jpg" href="Images/5-5-001--Base-ingredients-for-the-mushroom-doener.jpg" media-type="image/jpeg"/>
+    <item id="x5-5-002--low-tone-spices-for-mushrooms.jpg" href="Images/5-5-002--low-tone-spices-for-mushrooms.jpg" media-type="image/jpeg"/>
+    <item id="x5-5-004--ingredients-for-Yoghurt-dressing.jpg" href="Images/5-5-004--ingredients-for-Yoghurt-dressing.jpg" media-type="image/jpeg"/>
+    <item id="x5-5-005--color-change-when-pickling.jpg" href="Images/5-5-005--color-change-when-pickling.jpg" media-type="image/jpeg"/>
+    <item id="x6-1-000-title.jpg" href="Images/6-1-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x6-1-001--alcohol-metabolism-in-a-nutshell.png" href="Images/6-1-001--alcohol-metabolism-in-a-nutshell.png" media-type="image/png"/>
+    <item id="x6-1-002--caloric-footprint-of-alcoholic-beverages.png" href="Images/6-1-002--caloric-footprint-of-alcoholic-beverages.png" media-type="image/png"/>
+    <item id="x6-2-000-title.jpg" href="Images/6-2-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x6-2-002--how-body-weifht-affects-the-risk-of-hazard.png" href="Images/6-2-002--how-body-weifht-affects-the-risk-of-hazard.png" media-type="image/png"/>
+    <item id="x6-2-003--factors-for-overweight.png" href="Images/6-2-003--factors-for-overweight.png" media-type="image/png"/>
+    <item id="x6-2-004--development-of-atherosclerosis.png" href="Images/6-2-004--development-of-atherosclerosis.png" media-type="image/png"/>
+    <item id="x6-3-000-title.jpg" href="Images/6-3-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x6-3-001--comparison-of-cooking-methods.png" href="Images/6-3-001--comparison-of-cooking-methods.png" media-type="image/png"/>
+    <item id="x6-4-000-title.jpg" href="Images/6-4-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x6-4-001--blending-a-cashew-cream.jpg" href="Images/6-4-001--blending-a-cashew-cream.jpg" media-type="image/jpeg"/>
+    <item id="x6-4-002--one-example-use-case-for-tofu-cream.jpg" href="Images/6-4-002--one-example-use-case-for-tofu-cream.jpg" media-type="image/jpeg"/>
+    <item id="x6-4-003--tahini-dressing-with-falafel.jpg" href="Images/6-4-003--tahini-dressing-with-falafel.jpg" media-type="image/jpeg"/>
+    <item id="x6-4-004--mejidol-dates-vs-refined-sugar.png" href="Images/6-4-004--mejidol-dates-vs-refined-sugar.png" media-type="image/png"/>
+    <item id="x6-5-000-title.jpg" href="Images/6-5-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x6-5-001--1-ParallelOptimistic.png" href="Images/6-5-001--1-ParallelOptimistic.png" media-type="image/png"/>
+    <item id="x6-5-001--2-PersonalPessimistic.png" href="Images/6-5-001--2-PersonalPessimistic.png" media-type="image/png"/>
+    <item id="x6-5-001--3-PersonalRealistic.png" href="Images/6-5-001--3-PersonalRealistic.png" media-type="image/png"/>
+    <item id="x6-5-002--workspace-arrangement-to-optimize.cooking-times.png" href="Images/6-5-002--workspace-arrangement-to-optimize.cooking-times.png" media-type="image/png"/>
+    <item id="x6-5-003--base-ingredients-for-the-nutloaf.jpg" href="Images/6-5-003--base-ingredients-for-the-nutloaf.jpg" media-type="image/jpeg"/>
+    <item id="x6-5-004--the-finished-nutloaf.jpg" href="Images/6-5-004--the-finished-nutloaf.jpg" media-type="image/jpeg"/>
+    <item id="x6-5-005--Gravy-ingredients.jpg" href="Images/6-5-005--Gravy-ingredients.jpg" media-type="image/jpeg"/>
+    <item id="x6-5-006--ingredients-for-the-tofu-dip.jpg" href="Images/6-5-006--ingredients-for-the-tofu-dip.jpg" media-type="image/jpeg"/>
+    <item id="x6-5-007--the-finished-dip.jpg" href="Images/6-5-007--the-finished-dip.jpg" media-type="image/jpeg"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="x-x-000-title.jpg" href="Images/x-x-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x-y-000-title.jpg" href="Images/x-y-000-title.jpg" media-type="image/jpeg"/>
+    <item id="x1-3-001-Study-How-body-weight-affects-the-risk-of-hazard.png" href="Images/1-3-001-Study-How-body-weight-affects-the-risk-of-hazard.png" media-type="image/png"/>
+    <item id="x2-3-004-second-meal-effect.png" href="Images/2-3-004-second-meal-effect.png" media-type="image/png"/>
+    <item id="x2-4-004-Download-your-worldmap.png" href="Images/2-4-004-Download-your-worldmap.png" media-type="image/png"/>
+    <item id="x3-2-004--impact-of-fatty-acids-on-cholesterol-levels.png" href="Images/3-2-004--impact-of-fatty-acids-on-cholesterol-levels.png" media-type="image/png"/>
+    <item id="x3-3-001--Package-design-and-perceiption.png" href="Images/3-3-001--Package-design-and-perceiption.png" media-type="image/png"/>
+    <item id="x4-3-001--Decay-of-vitamin-C-at-different-temperatures.png" href="Images/4-3-001--Decay-of-vitamin-C-at-different-temperatures.png" media-type="image/png"/>
+    <item id="x4-5-005--FFCL-filled.png" href="Images/4-5-005--FFCL-filled.png" media-type="image/png"/>
+    <item id="x5-5-003--pide-qr-code.png" href="Images/5-5-003--pide-qr-code.png" media-type="image/png"/>
+    <item id="x6-2-001--study-reversal-of-type-2-diabetes.png" href="Images/6-2-001--study-reversal-of-type-2-diabetes.png" media-type="image/png"/>
+    <item id="Section0001.xhtml" href="Text/x-z--licenses.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="frontmatter"/>
+    <itemref idref="toc"/>
+    <itemref idref="introduction"/>
+    <itemref idref="x1-1-healthy-goals"/>
+    <itemref idref="x1-2-knowlegde--nutrients-we-need.xhtml"/>
+    <itemref idref="x1-3-healthy-body-changes-and-weight-loss.xhtml"/>
+    <itemref idref="x1-4-skill-taste.xhtml"/>
+    <itemref idref="x1-5-practice-ramen.xhtml"/>
+    <itemref idref="x2-1-Mind--basic-principle-of-healthy-diets.xhtml"/>
+    <itemref idref="x2-2-Knowledge--Carbohydrates.xhtml"/>
+    <itemref idref="x2-3-Habit--Whole-Food-Groups.xhtml"/>
+    <itemref idref="x2-4-Skill--Aroma.xhtml"/>
+    <itemref idref="x2-5-Practice--Buddha-Bowls.xhtml"/>
+    <itemref idref="x3-1-mind--Energy-And-body-Weight.xhtml"/>
+    <itemref idref="x3-2-knowledge--Fat.xhtml"/>
+    <itemref idref="x3-3-habit--reading-shopping-labels.xhtml"/>
+    <itemref idref="x3-4-skill--bite.xhtml"/>
+    <itemref idref="x3-5--Chili.xhtml"/>
+    <itemref idref="x4-1--mind--Sport-and-health.xhtml"/>
+    <itemref idref="x4-2-knowledge-protein.xhtml"/>
+    <itemref idref="x4-3-Habit--Food-quality-and-spoilage.xhtml"/>
+    <itemref idref="x4-4-Skill--Texture.xhtml"/>
+    <itemref idref="x4-5-Practice--Protein-pesto-with-pasta-primavera.xhtml"/>
+    <itemref idref="x5-1-mind--critical-nutrients.xhtml"/>
+    <itemref idref="x5-2-Knowledge--uncritical-nutrients.xhtml"/>
+    <itemref idref="x5-3-Habit--optimizing-nutrient-absorption.xhtml"/>
+    <itemref idref="x5-4-Skill--Creating-a-meatlike-experience.xhtml"/>
+    <itemref idref="x5-5-Practice--mushroom-doener-kebab.xhtml"/>
+    <itemref idref="x6-1-mind--alcohol.xhtml"/>
+    <itemref idref="x6-2-knowledge--diseases-linked-to-diet.xhtml"/>
+    <itemref idref="x6-3-habit--nutrient-saving-cooking.xhtml"/>
+    <itemref idref="x6-4-skill--replacing-with-whole-foods.xhtml"/>
+    <itemref idref="x6-5-practice--lentil-nutloaf-holiday-menu.xhtml"/>
+    <itemref idref="x-x-outro--a-lifelong-journey-awaits.xhtml"/>
+    <itemref idref="x-y--references.xhtml"/>
+    <itemref idref="x-z--licenses.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="Text/toc.xhtml"/>
+    <reference type="text" title="Introduction" href="Text/introduction.xhtml"/>
+    <reference type="text" title="Healthy Goals" href="Text/1-1-healthy-goals.xhtml"/>
+    <reference type="text" title="Nutrients we need" href="Text/1-2-knowlegde--nutrients-we-need.xhtml"/>
+    <reference type="text" title="Healthy body changes and weight loss" href="Text/1-3-healthy-body-changes-and-weight-loss.xhtml"/>
+    <reference type="text" title="Taste" href="Text/1-4-skill-taste.xhtml"/>
+    <reference type="text" title="Ramen" href="Text/1-5-practice-ramen.xhtml"/>
+    <reference type="text" title="The basic principle of healthy diets" href="Text/2-1-Mind--basic-principle-of-healthy-diets.xhtml"/>
+    <reference type="text" title="Carbohydrates" href="Text/2-2-Knowledge--Carbohydrates.xhtml"/>
+    <reference type="text" title="Whole Food Groups" href="Text/2-3-Habit--Whole-Food-Groups.xhtml"/>
+    <reference type="text" title="Aroma" href="Text/2-4-Skill--Aroma.xhtml"/>
+    <reference type="text" title="Buddha Bowls" href="Text/2-5-Practice--Buddha-Bowls.xhtml"/>
+    <reference type="text" title="Energy and Body Weight" href="Text/3-1-mind--Energy-And-body-Weight.xhtml"/>
+    <reference type="text" title="Fat" href="Text/3-2-knowledge--Fat.xhtml"/>
+    <reference type="text" title="Reading Shopping Labels" href="Text/3-3-habit--reading-shopping-labels.xhtml"/>
+    <reference type="text" title="Bite" href="Text/3-4-skill--bite.xhtml"/>
+    <reference type="text" title="Black Beans &amp; Sweet Potato Chili" href="Text/3-5--Chili.xhtml"/>
+    <reference type="text" title="Sport &amp; Health" href="Text/4-1--mind--Sport-and-health.xhtml"/>
+    <reference type="text" title="Protein" href="Text/4-2-knowledge-protein.xhtml"/>
+    <reference type="text" title="Food Quality and Spoilage" href="Text/4-3-Habit--Food-quality-and-spoilage.xhtml"/>
+    <reference type="text" title="Texture" href="Text/4-4-Skill--Texture.xhtml"/>
+    <reference type="text" title="Protein Pesto with Pasta Primavera" href="Text/4-5-Practice--Protein-pesto-with-pasta-primavera.xhtml"/>
+    <reference type="text" title="Critical Nutrients" href="Text/5-1-mind--critical-nutrients.xhtml"/>
+    <reference type="text" title="Uncritical Nutrients" href="Text/5-2-Knowledge--uncritical-nutrients.xhtml"/>
+    <reference type="text" title="Optimizing nutrient absorption" href="Text/5-3-Habit--optimizing-nutrient-absorption.xhtml"/>
+    <reference type="text" title="Creating a meat-like experience" href="Text/5-4-Skill--Creating-a-meatlike-experience.xhtml"/>
+    <reference type="text" title="Mushroom Döner Kebab" href="Text/5-5-Practice--mushroom-doener-kebab.xhtml"/>
+    <reference type="text" title="Alcohol" href="Text/6-1-mind--alcohol.xhtml"/>
+    <reference type="text" title="Diseases linked to diet" href="Text/6-2-knowledge--diseases-linked-to-diet.xhtml"/>
+    <reference type="text" title="Nutrient saving cooking" href="Text/6-3-habit--nutrient-saving-cooking.xhtml"/>
+    <reference type="text" title="Replacing with whole foods" href="Text/6-4-skill--replacing-with-whole-foods.xhtml"/>
+    <reference type="text" title="Lentil-Nutloaf Holiday Menu" href="Text/6-5-practice--lentil-nutloaf-holiday-menu.xhtml"/>
+    <reference type="notes" title="A Lifelong Journey Awaits" href="Text/x-x-outro--a-lifelong-journey-awaits.xhtml"/>
+    <reference type="text" title="References" href="Text/x-y--references.xhtml"/>
+    <reference type="text" title="Licenses" href="Text/x-y--licenses.xhtml"/>
+  </guide>
+</package>
