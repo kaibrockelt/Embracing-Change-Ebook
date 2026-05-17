@@ -25,7 +25,7 @@ The following assets are strictly EXCLUDED from the Creative Commons license and
 * **Photography:** Individual photographs from third-party platforms (e.g., Unsplash) that are explicitly credited below are subject to the Unsplash or Pexels License accordingly.
 * **The "World Map of Aromas":** This specific graphic asset is *not* hosted within this GitHub repository and is hosted externally. It contains proprietary, copyrighted material and is excluded from any Copyleft or open redistribution. Viewing or linking to it does not grant any rights to copy, reuse, or modify the graphic itself.
 
-## Title images used under unsplash or pexels license license:
+## Title images used under unsplash or pexels license:
 
 **0-1 Embracing change intro**  
 [Tray of apples near brown bottle ](https://unsplash.com/photos/tray-of-apples-near-brown-bottle-DlO0yz4U67A) by [**goodsoulshop**](https://unsplash.com/@goodsoulshop) (unsplash)  
