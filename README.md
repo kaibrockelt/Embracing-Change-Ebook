@@ -10,6 +10,22 @@ This is the open-source repository for **Embracing Change** by Kai Brockelt. Thi
 By hosting this project openly on GitHub under a Copyleft license, this book belongs to the public. It is a tool for a health rebellion—free to read, free to fork, and free to improve.
 
 ---
+## Why making this public? What's the reason?
+
+The answer lies in a problem that we can't afford to ignore. [A staggering 74% of deaths worldwide are non-communicable diseases](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death). 
+
+While not all these deaths can be attributed directly to lifestyle choices, the correlation is evident. The more we steer towards an unhealthy lifestyle, the more we face diseases like diabetes, heart attacks, metabolic syndrome, osteoporosis, and more. These trends are driven by the lifestyle that our society has inadvertently constructed.
+
+![Diseases linked to diet](https://github.com/kaibrockelt/Embracing-Change-Ebook/blob/main/Open%20Data/Epub-English/Embracing%20Change%20-%20Kai%20Brockelt--Tablet-Version/OEBPS/Images/1-1--001-Diseases-linked-to-diet.png?raw=true)
+
+Interestingly, many people are perpetually worried about potential deficits in their lives. Yet, they unconsciously journey toward their grave due to excess saturated fats, sugar, salt, and refined products. 
+
+The health and wellness landscape has become a dense jungle filled with non-scientific misinformation. The correct information is often drowned out by an avalanche of quick fixes, crash diets, and "miracle" products. 
+
+This is where the most critical players come into play—the industry and marketing. Many players in the food industry frequently practice "green-labeling" by highlighting the absence of harmful product components, often neglecting the less obvious yet equally detrimental factors. This leads to selling false hopes, unrealistic ideals, and overpriced products, often at the expense of the client's health.
+
+The fitness industry's primary focus often shifts from holistic health to short-term muscle growth and sales. [The pharmaceutical industry is criticized for prioritizing profit over healing](https://link.springer.com/article/10.1007/BF03256183) and opting for medication over holistic approaches.
+
 
 ## Reclaiming Autonomy
 
