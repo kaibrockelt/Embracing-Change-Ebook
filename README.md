@@ -81,7 +81,7 @@ For transparency and legal safety, the following assets within this repository a
 
 * **Embedded Fonts:** *Open Sans* and *Merriweather* are Google Fonts included under the **SIL Open Font License (OFL)**.
 * **Photography:** Title images sourced from Unsplash and Pexels belong to their respective creators and are used under the **Unsplash License** or **Pexels License**. See `LICENSE.md` for full image credits.
-* **The "World Map of Aromas":** This specific asset is hosted externally, contains proprietary, copyrighted material, and is completely excluded from open redistribution.
+* **The "World Map of Aromas":** This specific asset is hosted externally, contains proprietary, copyrighted material, and is completely excluded from open redistribution. If you have the time and skill, you can add a copy-left version of the file via pull request. This is the last asset that is currently not open and public domain. 
 
 *For the full, legally binding terms and asset credits, please review the [License.md](./License.md) file.*
 
