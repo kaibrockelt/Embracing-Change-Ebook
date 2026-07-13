@@ -1,0 +1,10 @@
+# macOS Systemdateien
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows Systemdateien
+Thumbs.db
+ehthumbs.db
+Desktop.ini
