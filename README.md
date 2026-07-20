@@ -48,6 +48,10 @@ This repository contains ready-to-read epubs and production-ready source files f
 1. **tablet Edition:** Contains Graphics in high resolution and color. Best if you read on a tablet, Smartphone or Computer-screen. [Click here to download.](https://github.com/kaibrockelt/Embracing-Change-Ebook/raw/refs/heads/main/Epubs/German/Embracing%20Change%20-%20Kai%20Brockelt--Tablet-Version-DE.epub)
 2. **e-ink Edition**: Contains black and white Graphics optimized for low contrast and low resolution displays. **not ready yet :(**
 
+
+### Unsure which app to use for reading?
+I recommend using https://readest.com/ - it's open source and pricacy focused and won't ask for any money, data, signup or anything.
+
 ---
 
 ## How you can Contribute
