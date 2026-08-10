@@ -1,0 +1,242 @@
+/*font embeds*/
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../Fonts/OpenSans-Regular.woff2') format('woff2'),
+       url('../Fonts/OpenSans-Regular.woff') format('woff'), 
+       url('../Fonts/OpenSans-Regular.ttf')  format('truetype'),
+       url('../Fonts/OpenSans-Regular.otf')  format('opentype');
+	   	 font-weight: normal;
+  		 font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../Fonts/OpenSans-Bold.woff2') format('woff2'),
+       url('../Fonts/OpenSans-Bold.woff') format('woff'), 
+       url('../Fonts/OpenSans-Bold.ttf')  format('truetype'),
+       url('../Fonts/OpenSans-Bold.otf')  format('opentype');
+	   	 font-weight: bold;
+  		 font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../Fonts/OpenSans-BoldItalic.woff2') format('woff2'),
+       url('../Fonts/OpenSans-BoldItalic.woff') format('woff'), 
+       url('../Fonts/OpenSans-BoldItalic.ttf')  format('truetype'),
+       url('../Fonts/OpenSans-BoldItalic.otf')  format('opentype');
+	   	 font-weight: bold;
+  		 font-style: italic;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../Fonts/OpenSans-Italic.woff2') format('woff2'),
+       url('../Fonts/OpenSans-Italic.woff') format('woff'), 
+       url('../Fonts/OpenSans-Italic.ttf')  format('truetype'),
+       url('../Fonts/OpenSans-Italic.otf')  format('opentype');
+	   	 font-weight: normal;
+  		 font-style: italic;
+}
+@font-face {
+  font-family: 'Merriweather';
+  src: url('../Fonts/Merriweather-Regular.woff2') format('woff2'),
+       url('../Fonts/Merriweather-Regular.woff') format('woff'), 
+       url('../Fonts/Merriweather-Regular.ttf')  format('truetype'),
+       url('../Fonts/Merriweather-Regular.otf')  format('opentype');
+	   	 font-weight: normal;
+  		 font-style: italic;
+}
+
+
+/*  basic style */
+
+body {
+  line-height: 1.5em;
+}
+
+p.first {
+  text-indent: 0;
+}
+
+/*typo*/
+body, ul, li, ol, table,  h1{
+font-family:"Open Sans", sans-serif;
+letter-spacing: .01em;
+}
+h2, h3, h4, h5, blockquote
+{
+	font-family: "Merriweather", serif;
+	font-weight: normal;  
+	letter-spacing: .03em;
+
+	page-break-after: avoid;
+	break-after: avoid;
+
+	page-break-before: auto;
+	break-before: auto;
+
+	page-break-inside: avoid;
+	break-inside: avoid;
+}
+
+body, p, li, ul, ol{
+font-size: 100%;
+}
+h2{
+font-size: 150%;
+}
+h3{
+font-size: 133% ;
+}
+h4, blockquote{
+font-size: 116% ;
+}
+
+blockquote{
+margin-top: 50pt;
+}
+/* Kindle Legacy Specific Styles */
+@media amzn-mobi {
+  p.first {
+    text-indent: 0;
+  }
+}
+img { max-width: 100%; 
+}
+
+.centered{
+text-align: center;
+}
+
+.monospace{
+	font-family: monospace;
+}
+
+.title{
+font-weight: bold;
+margin-bottom: 0;
+}
+
+.ref{
+font-weight: bold;
+}
+.authors{
+margin-top: 0;
+}
+blockquote{
+font-style: italic;
+font-weight: bold;
+color: #777777;
+}
+
+/*generic table styles*/
+table{
+border-spacing: 1px;
+width: 100%;
+margin-bottom: 20px;
+page-break-before: auto;
+page-break-inside: avoid;
+break-before: auto;
+break-inside: avoid;
+
+}
+td, th{
+
+margin: 0;
+text-align: center;
+vertical-align: top;
+}
+tr{
+margin: 0;
+page-break-inside: avoid;
+}
+
+tr:nth-child(even) td{
+background-color: #EFEFEF;
+
+}
+th{
+background-color: #555555;
+color: #ffffff;
+}
+/* table Recipe meta*/
+table.recipemeta {
+border: none;
+border-spacing: 15px;
+}
+table.recipemeta h3{
+text-align: center;
+}
+table.recipemeta td{
+border: none;
+border-top: 2px solid #000000;
+background-color: #EFEFEF;
+}
+table.recipemeta td h3, table.recipemeta td p{
+margin: 0;
+}
+
+.recipeheader{
+page-break-before: always;
+page-break-inside: avoid;
+}
+
+/* Nutrient tables*/
+table.nutrienttable{
+border: 1px solid #000000;
+padding: 2px;
+text-align: left;
+}
+table.nutrienttable td, 
+table.nutrienttable th{
+	text-align: left;
+}
+table.nutrienttable h3{
+margin: 5px 0;
+}
+#toc li{
+list-style-type: none;
+}
+#toc li a{
+text-decoration: none;
+background-color: transparent;
+}
+
+input[type=checkbox]{
+margin-right: 15pt;
+}
+
+hr{
+border-top: none;
+border-bottom: 2px solid #000000;
+width: 80%;
+height: 0;
+margin-left: auto;
+margin-right: auto;
+}
+.whybox{
+background-color: #EFEFEF;
+text-align: center;
+padding: 0pt 5pt;
+}
+.whybox h3{
+text-align: center;
+}
+
+#references li a{
+word-wrap: break-word;
+}
+
+
+/*chapter image*/
+
+.chapter-opener img { 
+		max-width: 100%; 
+}
+.chapter-opener { 
+		text-align: center; 
+		page-break-after: always;
+		break-after: always;
+}
+      
