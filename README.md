@@ -101,5 +101,6 @@ For transparency and legal safety, the following assets within this repository a
 
 * **Author:** Kai Brockelt ([Clean Bites](https://clean-bites.com/))
 * **Layout & Cover Design:** Franziska Schmidt-Thieme
+* **First correction DE:** Olivia Adamczyk
 
 *Let's change the way we look at food. One bite—and one commit—at a time.*
